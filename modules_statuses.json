@@ -1,0 +1,31 @@
+{
+
+    "Partners": true,
+    "FieldForce": true,
+    "Spreadsheet": true,
+    "Installment": true,
+    "Accounting": true,
+    "EmployeeLoan":true,
+    "Loan":true,
+    "Shop":true,
+    "ElectronicWallets":true,
+    "InventoryManagement":true,
+    "InventoryReset":true,
+    
+
+    "Essentials": true,
+    "AssetManagement": true,
+    "Cms": true,
+    "Connector": true,
+    "Crm": true,
+    "Ecommerce": true,
+    "Manufacturing": true,
+    "ProductCatalogue": true,
+    "Project": true,
+    "Repair": true,
+    "Superadmin": true,
+    "Woocommerce": true,
+    "AiAssistance": true
+    
+ 
+}

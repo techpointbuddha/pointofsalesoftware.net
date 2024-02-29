@@ -1,0 +1,18 @@
+{
+    "i18n-ally.localesPaths": [
+        "resources/lang",
+        "public/js/lang",
+        "Modules/Crm/Resources/lang",
+        "Modules/Essentials/Resources/lang",
+        "Modules/Manufacturing/Resources/lang",
+        "Modules/ProductCatalogue/Resources/lang",
+        "Modules/Project/Resources/lang",
+        "Modules/Superadmin/Resources/lang",
+        "Modules/Woocommerce/Resources/lang",
+        "resources/plugins/fullcalendar/locale",
+        "Modules/Essentials/Resources/views/messages",
+        "resources/plugins/AdminLTE/plugins/datepicker/locales",
+        "resources/plugins/AdminLTE/plugins/select2/lang",
+        "resources/plugins/jquery-validation-1.16.0/demo/tinymce/themes/simple/langs"
+    ]
+}
